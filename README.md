@@ -1,6 +1,6 @@
 #  PopcornTimeUbuntuX64 
 Easy Script For the Installation of Popcorn Time In Debian based distros
-# 🔰 Usage
+# 🔰 Installation
 
 ```sh
 chmod +x popcorntime64Ubuntu.sh
