@@ -1,4 +1,4 @@
-#  PopcornTimeUbuntu64 
+#  PopcornTimeUbuntuX64 
 Easy Script For the Installation of Popcorn Time In Debian based distros
 # 🔰 Usage
 
